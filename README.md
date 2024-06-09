@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-<div>
-
 <h3 align="center">✨ Used Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -50,5 +46,5 @@
   </a>
 </div>
 
+[![Jihoon's Github Stats](https://github-readme-stats.vercel.app/api?username=jihoon135)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
