@@ -46,5 +46,7 @@
   </a>
 </div>
 
+<div align="center">
 [![Jihoon's Github Stats](https://github-readme-stats.vercel.app/api?username=jihoon135)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
