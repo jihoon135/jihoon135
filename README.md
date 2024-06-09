@@ -49,6 +49,8 @@
 <br>
 
 
-[![Jihoon's Github Stats](https://github-readme-stats.vercel.app/api?username=jihoon135)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<div align="center">
+  <a href="https://github.com/jihoon135">
+    <img src="https://github-readme-stats.vercel.app/api?username=jihoon135" alt="Jihoon's Github Stats" />
+  </a>
+</div>
