@@ -1,5 +1,6 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35)
-
+<div>
 
 <h3 align="center">✨ Used Tech Stack ✨</h3>
 <div align="center">
