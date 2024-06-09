@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Hello!!%20I'm%20Jihoon👋&fontSize=32&animation=fadeln&fontAlignY36&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Hello!!%20I'm%20Jihoon👋&fontSize=32&animation=fadeln&fontAlignY=36&fontColor=ffffff" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoon135)](https://github.com/anuraghazra/github-readme-stats)
